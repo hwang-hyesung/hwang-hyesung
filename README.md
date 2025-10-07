@@ -2,13 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7CAC9,100:92A8D1&height=180&section=header&text=Hyesung%20Hwang%20🚀&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </div>
 
----
+
+--
+
 
 <p align="center">
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
----
+
+--
+
 
 ### 🧰 Tech Stack
 
@@ -21,7 +25,9 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
----
+
+--
+
 
 ### 📈 GitHub Stats
 <p align="center">
@@ -29,8 +35,12 @@
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=hwang-hyesung&theme=graywhite" />
 </p>
 
----
+
+--
+
 
 ### 📫 Get in Touch
 - 📧 **hwanghs7008@g.skku.edu**  
 - 🧭 [**Portfolio**](https://woozy-offer-728.notion.site/1401944b64de80f8928ae364335acbf7?source=copy_link)
+
+
