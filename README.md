@@ -33,7 +33,7 @@
 </p>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={hwanghs7008})](https://solved.ac/{hwanghs7008})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=hwanghs7008)](https://solved.ac/hwanghs7008)
 
 
 
