@@ -1,13 +1,3 @@
-<h1 align="center">Hi 👋, I'm Hyesung</h1>
-<h3 align="center">Web Developer | React & Spring Boot</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3CB371&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Passionate+about+Web+and+Clean+Code" alt="Typing SVG" />
-</p>
-
----
 <p align="center">
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
@@ -16,22 +6,6 @@
 - 🌱 Currently focusing on **React + Spring Boot**
 - 🧩 Interested in building clean, maintainable web applications
 - ☕ Always learning something new about backend performance and system design
-
----
-
-### 🛠 Tech Stack
-
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000)
-
-#### Backend
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-#### Others
-![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
