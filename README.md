@@ -35,8 +35,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hwang-hyesung&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=hwang-hyesung&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hwang-hyesung&show_icons=true&theme=graywhite" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=hwang-hyesung&theme=graywhite" />
 </p>
 
 ### 📫 Contact
