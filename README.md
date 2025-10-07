@@ -32,6 +32,8 @@
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=hwang-hyesung&theme=graywhite" />
 </p>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={hwanghs7008})](https://solved.ac/{hwanghs7008})
 
 
 
