@@ -1,17 +1,6 @@
-<h1 align="center">👋 Hi, I'm Hyesung</h1>
-<h3 align="center">🌱 Web Developer | React & Spring Boot</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=480&lines=Full+Stack+Web+Developer;React+%2B+Spring+Boot;Clean+Code+Enthusiast" alt="Typing SVG" />
-</p>
-
----
-
-### 💡 About Me
-- 🎯 Full-stack web development with **React + Spring Boot**
-- 💻 Mainly using **Java**, with **C++** for problem-solving  
-- ⚙️ Interested in **system design** and **backend optimization**
-- ☕ Always open to learning and collaboration  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7CAC9,100:92A8D1&height=180&section=header&text=Hyesung%20Hwang%20🚀&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</div>
 
 ---
 
@@ -44,4 +33,4 @@
 
 ### 📫 Get in Touch
 - 📧 **hwanghs7008@g.skku.edu**  
-- 🧭 [Portfolio](https://woozy-offer-728.notion.site/1401944b64de80f8928ae364335acbf7?source=copy_link)
+- 🧭 [**Portfolio**](https://woozy-offer-728.notion.site/1401944b64de80f8928ae364335acbf7?source=copy_link)
