@@ -45,9 +45,7 @@
 <div align="center">
   <h2 align="center">🏆 Solved.ac & Problem Solving</h2>
 
-  <p>
-    [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hwanghs7008)](https://solved.ac/hwanghs7008)
-  </p>
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hwanghs7008)](https://solved.ac/hwanghs7008)
 </div>
 
 ---
