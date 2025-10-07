@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7CAC9,100:92A8D1&height=180&section=header&text=Hyesung%20Hwang%20🚀&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7CAC9,100:92A8D1&height=180&section=header&text=Hwang%20Hyesung%20&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 
