@@ -9,10 +9,10 @@
 
 ---
 
-//### 💡 About Me
-//- 🌱 Currently focusing on **React + Spring Boot**
-//- 🧩 Interested in building clean, maintainable web applications
-//- ☕ Always learning something new about backend performance and system design
+### 💡 About Me
+- 🌱 Currently focusing on **React + Spring Boot**
+- 🧩 Interested in building clean, maintainable web applications
+- ☕ Always learning something new about backend performance and system design
 
 ---
 
