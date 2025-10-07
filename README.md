@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BEE3F8,100:6B46C1&height=200&section=header&text=Hello,%20I'm%20Hwang%20Hyesung&fontSize=40&fontColor=F7F7F7&animation=fadeIn" alt="Hwang Hyesung Header" />
 </div>
 
-<div align="center">
-  <p>💡 Backend Developer (or Full-stack) | 🎓 성균관대학교</p>
-  <p>🌱 Spring Boot와 React를 활용한 서비스 개발에 관심이 많습니다.</p>
-</div>
-
 ---
 
 <div align="center">
@@ -14,23 +9,19 @@
   
   <br>
 
-  <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java Badge"/>
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot Badge"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++ Badge"/>
     
-    <br><br>
 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript Badge"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232A" alt="React Badge"/>
     
-    <br><br>
 
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis Badge"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Badge"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge"/>
-  </p>
 </div>
 
 ---
@@ -51,9 +42,7 @@
 <div align="center">
   <h2 align="center">🏆 Solved.ac & Problem Solving</h2>
 
-  <p>
     [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hwanghs7008)](https://solved.ac/hwanghs7008)
-  </p>
 </div>
 
 ---
