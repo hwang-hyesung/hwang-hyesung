@@ -12,17 +12,25 @@
 <div align="center">
   <h2 align="center">💻 Tech Stack & Skills</h2>
   
+  <br>
+
+  <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java Badge"/>
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot Badge"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++ Badge"/>
     
+    <br><br>
+
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript Badge"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232A" alt="React Badge"/>
     
+    <br><br>
+
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis Badge"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Badge"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge"/>
+  </p>
 </div>
 
 ---
@@ -43,7 +51,9 @@
 <div align="center">
   <h2 align="center">🏆 Solved.ac & Problem Solving</h2>
 
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hwanghs7008)](https://solved.ac/hwanghs7008)
+  <p>
+    [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hwanghs7008)](https://solved.ac/hwanghs7008)
+  </p>
 </div>
 
 ---
@@ -58,5 +68,5 @@
     <a href="https://woozy-offer-728.notion.site/1401944b64de80f8928ae364335acbf7?source=copy_link" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white" alt="Portfolio Badge"/>
     </a>
-    </p>
+  </p>
 </div>
