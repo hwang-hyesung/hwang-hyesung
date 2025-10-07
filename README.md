@@ -3,7 +3,6 @@
 </div>
 
 
----
 
 
 <p align="center">
@@ -11,7 +10,6 @@
 </p>
 
 
----
 
 
 ### 🧰 Tech Stack
@@ -26,7 +24,6 @@
 </p>
 
 
----
 
 
 ### 📈 GitHub Stats
@@ -36,7 +33,6 @@
 </p>
 
 
----
 
 
 ### 📫 Get in Touch
