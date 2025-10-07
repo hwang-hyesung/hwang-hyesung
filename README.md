@@ -8,6 +8,7 @@
   <h2 align="center">💻 Tech Stack & Skills</h2>
   
   <br>
+  <p align="center">
 
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java Badge"/>
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot Badge"/>
@@ -22,6 +23,8 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Badge"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge"/>
+  <p align="center">
+
 </div>
 
 ---
@@ -42,7 +45,8 @@
 <div align="center">
   <h2 align="center">🏆 Solved.ac & Problem Solving</h2>
 
-    [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hwanghs7008)](https://solved.ac/hwanghs7008)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=hwanghs7008)](https://solved.ac/hwanghs7008)
+
 </div>
 
 ---
