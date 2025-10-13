@@ -1,16 +1,17 @@
 ## 🧞‍♂️ Hwang Hyesung's GitHub
+<br>
 
 ## 🎓 Education
 **SungKyunKwan University** – Software Engineering  
 2022.03 ~ Present  
 
-<br><br><br>
+<br>
 
 ## 🔧 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,react,nextjs,spring,docker,nginx,aws,git,github,figma&perline=9" />
 </p>
-<br><br><br>
+<br>
 
 ## 🌱 GitHub Activity
 <p align="center">
@@ -22,7 +23,7 @@
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake gif" width="90%"/>
 </p>
 
-<br><br><br>
+<br>
 
 ## 🏆 Problem Solving
 <p align="center">
