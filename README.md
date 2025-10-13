@@ -2,7 +2,7 @@
 <br>
 
 ## 🎓 Education
-- ![SungKyunKwan University](https://cse.skku.edu/cse/index.do))
+- ![SungKyunKwan University](https://cse.skku.edu/cse/index.do)
  Software Engineering (2022.03 - Present)
 
 <br>
