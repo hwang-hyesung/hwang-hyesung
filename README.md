@@ -2,9 +2,8 @@
 
 ### 🎓 Education
 **SungKyunKwan University** – Software Engineering  
-📅 2022.03 ~ Present  
+2022.03 ~ Present  
 
-<br><br><br>
 
 ### 🔧 Tech Stack
 <p align="center">
