@@ -2,8 +2,7 @@
 <br>
 
 ## 🎓 Education
-**SungKyunKwan University** – Software Engineering  
-2022.03 ~ Present  
+Sungkyunkwan University CSE (2022.03 - Present)
 
 <br>
 
