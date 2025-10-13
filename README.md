@@ -8,7 +8,7 @@ Sungkyunkwan University CSE (2022.03 - Present)
 
 ## 🔧 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,react,nextjs,spring,docker,nginx,aws,git,github,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,react,nextjs,spring,docker,nginx,aws,git,github,figma" />
 </p>
 <br>
 
