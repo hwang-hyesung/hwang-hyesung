@@ -2,13 +2,14 @@
 <br>
 
 ## 🎓 Education
-Sungkyunkwan University CSE (2022.03 - Present)
+![SungKyunKwan University]([https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black](https://cse.skku.edu/cse/index.do))
+ Software Engineering (2022.03 - Present)
 
 <br>
 
 ## 🔧 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,react,nextjs,spring,docker,nginx,aws,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,react,nextjs,spring,redis,docker,nginx,aws,git,github,figma" />
 </p>
 <br>
 
