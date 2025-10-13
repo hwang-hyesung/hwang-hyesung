@@ -3,7 +3,7 @@
 <h3 align="center">💻 Tech Stack & Skills</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,react,nextjs,spring,docker,nginx,aws,git,github,figma,atlassian&perline=9" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,react,nextjs,spring,docker,nginx,aws,git,github,figma&perline=9" />
 </p>
 
 ---
