@@ -27,18 +27,3 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=hwanghs7008)](https://solved.ac/hwanghs7008)
 
 </div>
-
----
-
-<div align="center">
-  <h2 align="center">📧 Get in Touch</h2>
-
-  <p>
-    <a href="mailto:hwanghs7008@g.skku.edu">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge"/>
-    </a>
-    <a href="https://woozy-offer-728.notion.site/1401944b64de80f8928ae364335acbf7?source=copy_link" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white" alt="Portfolio Badge"/>
-    </a>
-  </p>
-</div>
