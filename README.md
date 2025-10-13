@@ -1,3 +1,12 @@
+<div align="center">
+
+# 🧞‍♂️ Hwang Hyesung's GitHub
+
+---
+
+## 🎓 Education
+🎓 **SungKyunKwan University** – Software Enginerring
+📅 2022.03 ~ Present  
 
 ---
 <h3 align="center">💻 Tech Stack & Skills</h3>
