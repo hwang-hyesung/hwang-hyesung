@@ -1,4 +1,5 @@
 ## 🧞‍♂️ Hwang Hyesung's GitHub
+
 <br>
 
 ### 🎓 Education
@@ -10,6 +11,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,react,nextjs,spring,redis,docker,nginx,aws,git,github,figma" />
 </p>
+
+<br>
 
 ### 🌱 GitHub Activity
 <p>
@@ -24,3 +27,5 @@
   <a href="https://solved.ac/hwanghs7008">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=hwanghs7008" alt="Solved.ac Profile" />
   </a>
+
+<br>
