@@ -1,5 +1,4 @@
 ## 🧞‍♂️ Hwang Hyesung's GitHub
-<br>
 
 ### 🎓 Education
 - [SungKyunKwan University](https://cse.skku.edu/cse/index.do) Software Engineering (2022.03 - Present)
