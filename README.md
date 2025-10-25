@@ -1,6 +1,4 @@
 ## 🧞‍♂️ Hwang Hyesung's GitHub
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake gif" width="90%"/>
-
 <br>
 
 ### 🎓 Education
