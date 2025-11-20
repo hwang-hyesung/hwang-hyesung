@@ -7,7 +7,7 @@
 
 ### 🔧 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,react,nextjs,spring,redis,docker,nginx,aws,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,react,nextjs,spring,springboot,redis,docker,nginx,aws,git,figma" />
 </p>
 
 <br>
