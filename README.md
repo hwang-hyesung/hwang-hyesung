@@ -16,7 +16,6 @@
 <p>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hwang-hyesung&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Hwang Hyesung GitHub Stats" />
   <img height="160em" src="https://streak-stats.demolab.com?user=hwang-hyesung&theme=transparent&hide_border=true" alt="Hwang Hyesung GitHub Streak" />
-  [![hwang-hyesung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwang-hyesung)](https://github.com/hwang-hyesung/github-readme-stats)
 </p>
 
 <br>
