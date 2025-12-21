@@ -13,7 +13,7 @@
 <br>
 
 ### 🌱 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hwang-hyesung&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hwang-hyesung&show_icons=true&theme=transparent&hide_border=true)
 
 
 <br>
