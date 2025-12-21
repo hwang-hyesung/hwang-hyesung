@@ -13,10 +13,8 @@
 <br>
 
 ### 🌱 GitHub Activity
-<p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hwang-hyesung&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Hwang Hyesung GitHub Stats" />
-  <img height="160em" src="https://streak-stats.demolab.com?user=hwang-hyesung&theme=transparent&hide_border=true" alt="Hwang Hyesung GitHub Streak" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hwang-hyesung&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+
 
 <br>
 
